@@ -20,4 +20,4 @@
     <img alt="" src=https://lanyard.cnrad.dev/api/1115378147630788618/>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1263296128028250208)](https://discord.com/users/1263296128028250208)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1105462089830637599)](https://discord.com/users/1105462089830637599)
