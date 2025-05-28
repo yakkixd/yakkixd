@@ -20,4 +20,4 @@
     <img alt="" src=https://lanyard.cnrad.dev/api/1115378147630788618/>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1105462089830637599?bg=3804B3&borderRadius=10&idleMessage=Haxer1337&theme=dark)](https://discord.com/users/1105462089830637599)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1340361328224632934?bg=3804B3&borderRadius=10&idleMessage=Haxer1337&theme=dark)](https://discord.com/users/1105462089830637599)
