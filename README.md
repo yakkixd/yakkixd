@@ -4,7 +4,18 @@
 
 ###
 
-<h1 align="center">Hey 👋What's Up?</h1>
+# 📝 About Me
+
+  <a href="https://discord-cards.onrender.com/api/compact/712273643169644625?about=Silly&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg">
+  <img src="https://discord-cards.onrender.com/api/compact/712273643169644625?about=Silly&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg" alt=":D" align="right" style="margin-right: 40px;" />
+    ![My Discord](https://discord-readme-badge.vercel.app/api?id=712273643169644625)
+</a>
+
++ 🐱 Gato
++ 👨‍💻 Currently working on 3 projects
++ ✏️ Likes drawing & coding
++ 🔭 Trying to learn new things everyday
++ 💥 Research enthusiast
 
 ###
 
@@ -67,26 +78,13 @@
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yakkixd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=yakkixd&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yakkixd/yakkixd/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yakkixd/yakkixd/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yakkixd/yakkixd/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+# 📜 My Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yakkixd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yakkixd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yakkixd&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yakkixd&theme=discord_old_blurple)
