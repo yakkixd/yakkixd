@@ -6,8 +6,6 @@
 
 # 📝 About Me
   ![My Discord](https://discord-readme-badge.vercel.app/api?id=712273643169644625)
-  <a href="https://discord-cards.onrender.com/api/compact/712273643169644625?about=Silly&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg">
-  <img src="https://discord-cards.onrender.com/api/compact/712273643169644625?about=Silly&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg" alt=":D" align="right" style="margin-right: 40px;" />
     
 </a>
 
