@@ -5,8 +5,9 @@
 ###
 
 # 📝 About Me
+<div align="center">
   ![My Discord](https://discord-readme-badge.vercel.app/api?id=712273643169644625)
-    
+</div>
 </a>
 
 + 🐱 YakkixD
