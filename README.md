@@ -5,15 +5,15 @@
 ###
 
 # 📝 About Me
-
+  ![My Discord](https://discord-readme-badge.vercel.app/api?id=712273643169644625)
   <a href="https://discord-cards.onrender.com/api/compact/712273643169644625?about=Silly&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg">
   <img src="https://discord-cards.onrender.com/api/compact/712273643169644625?about=Silly&banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg" alt=":D" align="right" style="margin-right: 40px;" />
-    ![My Discord](https://discord-readme-badge.vercel.app/api?id=712273643169644625)
+    
 </a>
 
-+ 🐱 Gato
-+ 👨‍💻 Currently working on 3 projects
-+ ✏️ Likes drawing & coding
++ 🐱 YakkixD
++ 👨‍💻 Currently working on 2 projects
++ ✏️ Likes gaming & coding
 + 🔭 Trying to learn new things everyday
 + 💥 Research enthusiast
 
